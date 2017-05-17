@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sobre Teleco</string>
+    <string name="la_escuela">La Escuela</string>
+    <string name="saludo">Un saludo de parte del personal de la ETSIT</string>
+    <string name="boton">Púlsame</string>
+</resources>
