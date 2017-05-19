@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">About Teleco</string>
+    <string name="boton">Press me</string>
+    <string name="la_escuela">The School</string>
+    <string name="saludo">Hi</string>
+</resources>
